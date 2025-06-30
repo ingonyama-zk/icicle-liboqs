@@ -26,7 +26,7 @@ implementations:
     signature_keypair: icicle_ml_kem_1024_keypair
     signature_enc: icicle_ml_kem_1024_enc
     signature_dec: icicle_ml_kem_1024_dec
-    sources: ./icicle/icicle_ml-kem-1024/icicle_ml-kem.cpp
+    sources: ./icicle_ml-kem-1024/icicle_ml-kem.cpp
     supported_platforms:
       - architecture: CUDA
         operating_systems:
