@@ -21,7 +21,7 @@ auxiliary-submitters:
   - Gregor Seiler
   - Damien Stehlé
 implementations:
-  - name: icicle
+  - name: icicle_cuda
     version: FIPS203
     signature_keypair: icicle_ml_kem_512_keypair
     signature_enc: icicle_ml_kem_512_enc
